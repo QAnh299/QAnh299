@@ -17,7 +17,7 @@
 
 ## 🌸 About Me
 - 🎓 Sinh viên đang học tập & nghiên cứu khoa học tại Việt Nam
-- 📈 Đang trau dồi kỹ năng ở 3 mảng: **Data — Business — Technology**
+- 📈 Đang trau dồi kỹ năng ở 3 mảng: **Data - Business - Technology**
 - 🔭 Hiện đang làm các dự án phân tích dữ liệu, nghiên cứu khoa học và hệ thống quản lý
 - 🧰 Công cụ trọng tâm: **Python, Power BI, SQL, UML, AI Tools, MS Office**
 - 💬 Sẵn sàng trao đổi về: phân tích dữ liệu, business intelligence, nghiên cứu khoa học
@@ -26,7 +26,6 @@
 <br/>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 **Data & Business**
@@ -61,9 +60,7 @@
 ![snake gif](https://github.com/QAnh299/QAnh299/blob/output/github-snake.svg)
 
 <br/>
-
+<em>💖 Cảm ơn đã ghé thăm profile của mình! 💖</em>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<em>💖 Cảm ơn đã ghé thăm profile của mình! 💖</em>
 </div>
