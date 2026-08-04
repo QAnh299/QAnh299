@@ -67,35 +67,9 @@ motto: "Turning raw data into real decisions 📊✨"
 
 <br/>
 
-## 🚀 Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/QAnh299/Rainbow_NCKH_2024-2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAnh299&repo=Rainbow_NCKH_2024-2025&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/QAnh299/Bike-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QAnh299&repo=Bike-analysis&theme=radical&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/Hailinh1509/VietNews-Summarizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hailinh1509&repo=VietNews-Summarizer&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Le-Linh2859/Nhom6_HeThongQuanLiDiemSinhVien">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Le-Linh2859&repo=Nhom6_HeThongQuanLiDiemSinhVien&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=QAnh299&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QAnh299&layout=compact&theme=radical&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=QAnh299&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=QAnh299&theme=react-dark&hide_border=true&area=true" width="100%"/>
