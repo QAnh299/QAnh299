@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4?style=for-the-badge" />
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=QAnh299&label=Profile%20Views&color=f72585&style=flat-square" />
+<img src="https://img.shields.io/github/followers/QAnh299?label=Followers&style=flat-square&color=blueviolet" />
+
 </div>
 
 <br/>
@@ -36,6 +41,7 @@ motto: "Turning raw data into real decisions 📊✨"
 - ⚡ Fun fact: hành trình "how to be rich" vẫn đang tiếp diễn 😆🍷
 
 <br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
