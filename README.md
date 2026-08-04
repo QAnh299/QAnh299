@@ -14,9 +14,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=QAnh299&label=Profile%20Views&color=f72585&style=flat-square" />
-<img src="https://img.shields.io/github/followers/QAnh299?label=Followers&style=flat-square&color=blueviolet" />
-
 </div>
 
 <br/>
@@ -118,10 +115,8 @@ motto: "Turning raw data into real decisions 📊✨"
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/QAnh299/QAnh299/output/github-contribution-grid-snake.svg" width="100%"/>
+![snake gif](https://github.com/QAnh299/QAnh299/blob/output/github-snake.svg)
 </div>
-
-> 💡 *Ảnh snake động này cần thiết lập 1 lần qua GitHub Actions — xem hướng dẫn nhanh bên dưới.*
 
 <br/>
 
