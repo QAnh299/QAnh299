@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4?style=for-the-badge" />
 </div>
 
-<br/>
+<br/><br/>
 
 ## 🌸 About Me
 - 🎓 Sinh viên đang học tập & nghiên cứu khoa học tại Việt Nam
