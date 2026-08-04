@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 </div>
 
@@ -100,14 +100,6 @@ motto: "Turning raw data into real decisions 📊✨"
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=QAnh299&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=QAnh299&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <br/>
