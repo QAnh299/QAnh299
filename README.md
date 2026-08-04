@@ -16,7 +16,7 @@
 <br/><br/>
 
 ## 🌸 About Me
-- 🎓 Sinh viên đang học tập & nghiên cứu khoa học tại Việt Nam
+- 🎓 Sinh viên đang học ngành: Hệ thống thông tin quản lý tại BAV
 - 📈 Đang trau dồi kỹ năng ở 3 mảng: **Data - Business - Technology**
 - 🔭 Hiện đang làm các dự án phân tích dữ liệu, nghiên cứu khoa học và hệ thống quản lý
 - 🧰 Công cụ trọng tâm: **Python, Power BI, SQL, UML, AI Tools, MS Office**
