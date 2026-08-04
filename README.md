@@ -71,11 +71,6 @@ motto: "Turning raw data into real decisions 📊✨"
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=QAnh299&theme=radical&hide_border=true" style="width:70%; max-width:700px;" />
 </div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
 ![snake gif](https://github.com/QAnh299/QAnh299/blob/output/github-snake.svg)
 
 <br/>
