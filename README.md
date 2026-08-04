@@ -22,17 +22,6 @@
 <br/>
 
 ## 🌸 About Me
-
-```yaml
-name: "Đinh Thị Quỳnh Anh"
-role: "Student · Aspiring Data & Business Analyst"
-based_in: "Hanoi, Vietnam"
-currently_exploring: ["Data Analysis", "Business Intelligence", "AI Tools"]
-core_tools: ["Python", "SQL", "Power BI", "UML", "MS Office"]
-research: "Nghiên cứu khoa học sinh viên (NCKH) 2024 - 2025"
-motto: "Turning raw data into real decisions 📊✨"
-```
-
 - 🎓 Sinh viên đang học tập & nghiên cứu khoa học tại Việt Nam
 - 📈 Đang trau dồi kỹ năng ở 3 mảng: **Data — Business — Technology**
 - 🔭 Hiện đang làm các dự án phân tích dữ liệu, nghiên cứu khoa học và hệ thống quản lý
