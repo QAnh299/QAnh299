@@ -68,12 +68,8 @@ motto: "Turning raw data into real decisions 📊✨"
 <br/>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=QAnh299&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=QAnh299&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QAnh299&theme=radical&hide_border=true" style="width:70%; max-width:700px;" />
 </div>
 
 <br/>
