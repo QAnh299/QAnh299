@@ -13,14 +13,9 @@
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4?style=for-the-badge" />
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=QAnh299&label=Profile%20Views&color=f72585&style=flat-square" />
-<img src="https://img.shields.io/github/followers/QAnh299?label=Followers&style=flat-square&color=blueviolet" />
-
 </div>
 
 <br/>
-
 ## 🌸 About Me
 - 🎓 Sinh viên đang học tập & nghiên cứu khoa học tại Việt Nam
 - 📈 Đang trau dồi kỹ năng ở 3 mảng: **Data — Business — Technology**
