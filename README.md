@@ -11,11 +11,10 @@
 </a>
 <img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Pronouns-she%2Fher-ff69b4?style=for-the-badge" />
-
-<br/><br/>
 </div>
 
 <br/>
+
 ## 🌸 About Me
 - 🎓 Sinh viên đang học tập & nghiên cứu khoa học tại Việt Nam
 - 📈 Đang trau dồi kỹ năng ở 3 mảng: **Data — Business — Technology**
